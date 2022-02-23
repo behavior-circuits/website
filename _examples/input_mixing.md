@@ -30,7 +30,7 @@ The first is an emergency collision avoidance system that turns and breaks if th
 The second assistive system, the steering assistance, tries to help the human steer to a specified target position by planning and following a path from its current position to the target.
 
 A sample circuit to combine these two agents can be seen here:
-![input_mixing_circuit](images/main_circuit.png)
+![input_mixing_circuit](https://raw.githubusercontent.com/behavior-circuits/website/master/images/main_circuit.png)
 It is divided into two subcircuits controlling the angular velocity \\(\omega\\) and linear velocity \\(v\\).
 
 The sub-circuit for linear velocity implements the rule \textit{drive like the human OR the steering assistance if the human AND the collision avoidance system want to drive}.
@@ -47,8 +47,8 @@ Results for a sample experiment with 5 participants can be found below.
 These experiments took place in a specially set up arena with different regions modeling different complications. 
 A turtlebot burger was used as a robot. 
 An overview of the arena as well as a photo of the robot in the arena can be seen down below:
-![example arena](images/behavior_circuit_arena.png)
-![turtlebot](images/turtlebot.png)
+![example arena](https://raw.githubusercontent.com/behavior-circuits/website/master/images/behavior_circuit_arena.png)
+![turtlebot](https://github.com/behavior-circuits/website/blob/master/images/turtlebot.png?raw=true)
 
 
 The first region is a wide-open area with a small opening leading to the next region.
@@ -58,6 +58,6 @@ The third region features a huge spool at its center. Since the robot's laser sc
 
 The trajectories driven by each participant can be seen down below.
 To compare the improvement over the impeded joystick a baseline with an unimpeded normal joystick was first performed.
-![odometry_plot](images/odometry_plot.png)
+![odometry_plot](https://raw.githubusercontent.com/behavior-circuits/website/master/images/odometry_plot.png)
 As one can see using behavioral circuits to assist human drivers improves their driving performance significantly.
 
