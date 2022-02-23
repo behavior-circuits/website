@@ -1,12 +1,39 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Behavior Circuits"
+      url: /docs/about/
+  - title: "Example Projects"
+      url: /examples/about/
+  - title: "Team"
+      url: /team/
+  - title: "Github"
+    url: https://github.com/behavior-circuits
+
+
+docs:
+  - title: What are Behavior Circuits
+    children:
+      - title: "Behavior Circuits for Utility based Agents"
+        url: /docs/utility_idea/
+      - title: "Behavior Circuits for direct Control"
+        url: /docs/control_idea/
+      - title: "Mathematical Derivation"
+        url: /docs/derivation/
+      - title: "Usefuls Circuits and Gates"
+        url: /docs/circuit_zoo/
+  - title: How to design Behavior Circuits
+    children:
+      -title: "Design for Utility Combination"
+         url: /docs/utility_design/
+      -title: "Design for direct control"
+         url: /docs/control_design/
+      - title: "Interactive Circuit Designer"
+          url: /docs/interactive_designer
+
+examples:
+  -title: "Robot AI in less than 150 Lines of Code"
+     url: /examples/150_lines/
+  -title: "Fuse Human and Robot Commands"
+     url: /examples/input_mixing/
+  -title: "Circuit Based Navigation"
+     url: /examples/navigation/
