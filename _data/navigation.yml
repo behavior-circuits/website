@@ -3,7 +3,7 @@ main:
   - title: "Behavior Circuits"
     url: /docs/about/
   - title: "Example Projects"
-    url: /examples/about/
+    url: /examples/
   - title: "Team"
     url: /team/
   - title: "Github"
@@ -36,7 +36,7 @@ docs:
 examples:
   - title: "Robot AI in less than 150 Lines of Code"
     url: /examples/150_lines/
-  - title: "Fuse Human and Robot Commands"
+  - title: "Fusing Human and Robot Commands"
     url: /examples/input_mixing/
   - title: "Circuit Based Navigation"
     url: /examples/navigation/
