@@ -14,6 +14,8 @@ Email: contact@jan-baumgaertner.tech <br>
 ## Holger Dieterich
 
 ## Max Goebels
+Student at Heidelberg University. I like robots!
+Email: ibidumg@gmail.com
 
 ## Jens Wagner
 
