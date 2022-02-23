@@ -7,7 +7,7 @@ toc: true
 
 ## Jan Baumgärtner
 Researcher at Heidelberg university with a passion for cooperation between machines and humans <br>
-Website:  <a href="https://liquidcronos.github.io/"> liquidcronos.github.io</a> <br>
+Website:  <a href="jan-baumgaertner.tech"> https://www.jan-baumgaertner.tech/</a> <br>
 Email: contact@jan-baumgaertner.tech <br>  
 
 
