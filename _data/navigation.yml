@@ -21,20 +21,20 @@ docs:
         url: /docs/derivation/
       - title: "Usefuls Circuits and Gates"
         url: /docs/circuit_zoo/
-        
+   
   - title: How to design Behavior Circuits
     children:
-      -title: "Design for Utility Combination"
+      - title: "Design for Utility Combination"
         url: /docs/utility_design/
-      -title: "Design for direct control"
+      - title: "Design for direct control"
         url: /docs/control_design/
       - title: "Interactive Circuit Designer"
         url: /docs/interactive_designer
 
 examples:
-  -title: "Robot AI in less than 150 Lines of Code"
+  - title: "Robot AI in less than 150 Lines of Code"
     url: /examples/150_lines/
-  -title: "Fuse Human and Robot Commands"
+  - title: "Fuse Human and Robot Commands"
     url: /examples/input_mixing/
-  -title: "Circuit Based Navigation"
+  - title: "Circuit Based Navigation"
     url: /examples/navigation/
