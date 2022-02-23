@@ -21,6 +21,7 @@ docs:
         url: /docs/derivation/
       - title: "Usefuls Circuits and Gates"
         url: /docs/circuit_zoo/
+        
   - title: How to design Behavior Circuits
     children:
       -title: "Design for Utility Combination"
