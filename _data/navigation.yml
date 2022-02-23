@@ -13,6 +13,8 @@ main:
 docs:
   - title: What are Behavior Circuits
     children:
+      - title: "General Idea"
+        url: /docs/about/
       - title: "Behavior Circuits for Utility based Agents"
         url: /docs/utility_idea/
       - title: "Behavior Circuits for direct Control"
