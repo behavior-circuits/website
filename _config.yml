@@ -154,6 +154,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _docs
+  - _examples
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -288,3 +290,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      mathjax: true
