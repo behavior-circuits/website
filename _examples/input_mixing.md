@@ -33,9 +33,9 @@ A sample circuit to combine these two agents can be seen here:
 ![input_mixing_circuit](https://raw.githubusercontent.com/behavior-circuits/website/master/images/main_circuit.png)
 It is divided into two subcircuits controlling the angular velocity \\(\omega\\) and linear velocity \\(v\\).
 
-The sub-circuit for linear velocity implements the rule \textit{drive like the human OR the steering assistance if the human AND the collision avoidance system want to drive}.
+The sub-circuit for linear velocity implements the rule *drive like the human OR the steering assistance if the human AND the collision avoidance system want to drive*.
 
-The sub-circuit for angular velocity implements the rule \textit{turn like the human OR the steering assistance EXCEPT IF the collision avoidance wants to turn, then turn like the collision avoidance}.
+The sub-circuit for angular velocity implements the rule *turn like the human OR the steering assistance EXCEPT IF the collision avoidance wants to turn, then turn like the collision avoidance*.
 
 These rules ensure that the system will not collide with an obstacle no matter what happens, while still allowing the steering assistance to support the human operator.
 
