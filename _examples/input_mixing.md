@@ -2,6 +2,7 @@
 permalink: /examples/input_mixing/
 title: "Fusing Human and Robot Commands"
 layout: single
+toc: true
 
 ---
 
