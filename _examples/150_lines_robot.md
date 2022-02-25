@@ -17,7 +17,7 @@ Both robots are equipeed with cameras and ultrasonic sensors and feature a ROS i
 Using behavior circuits it is possible to create a intelligent of the mouse in less than 150 lines of code.
 These include all necessairy code to detect the cat, cheese and hiding places using the camera and read out the ultrasonic sensors.
 
-The code can be divided into four files.
+The code which can be found [here](https://github.com/behavior-circuits/150_lines_example) is divided into four files.
 The main brain of the robot is located in the `fusion.py`, the sensor readout from camera and sonar sensors are located in `vision.py` and `sonar.py`.
 Together the sensor nodes provide the polar coordinates of the following objects:
 * The closest obstacle
