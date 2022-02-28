@@ -6,6 +6,8 @@ toc: true
 
 ---
 
+![150_line_arena](https://raw.githubusercontent.com/behavior-circuits/website/master/images/150_lines_arena.png)
+
 The following example is meant to illustrate how simple it is to develop mobile robot AI using behavior circuits.
 
 In this example scenario, two robots called mouse and cat respectively compete in an arena.
