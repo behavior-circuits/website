@@ -1,7 +1,8 @@
 ---
 permalink: /examples/150_lines/
-title: "Robot AI in less than 150 Lines of Code"
+title: "Program a Robot in less than 150 Lines of Code"
 layout: single
+excerpt: "<br/><img src='https://raw.githubusercontent.com/behavior-circuits/website/master/images/150_lines_arena.png'>"
 toc: true
 
 ---
