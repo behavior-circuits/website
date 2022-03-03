@@ -6,7 +6,6 @@ toc: true
 
 ---
 
-# Utility Based Agents
 
 There are roughly speaking two types of utility based agents.
 Systems which assign utility to actions and  planner systems which assign utility to the current state of the world.
