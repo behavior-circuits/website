@@ -28,4 +28,4 @@ The Question for the designer of the robotics system is then, how to choose when
 
 Behavior circuits can be used to directly connect these control commands based on a rule based circuit.
 These circuits can use the current commands of the behaviors themself to decide on the final steering command.
-More information on this application can be found [here](control_idea).
+More information on this application can be found [here](control_idea.md).
