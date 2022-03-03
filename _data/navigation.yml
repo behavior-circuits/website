@@ -15,11 +15,11 @@ docs:
     children:
       - title: "General Idea"
         url: /docs/about/
-      - title: "Behavior Circuits for Utility based Agents"
+      - title: "Behavior Circuits for Utility Combination"
         url: /docs/utility_idea/
       - title: "Behavior Circuits for direct Control"
         url: /docs/control_idea/
-      - title: "Mathematical Derivation"
+      - title: "Mathematical Derivation of Analogical Gates"
         url: /docs/derivation/
       - title: "Usefuls Circuits and Gates"
         url: /docs/circuit_zoo/

@@ -278,6 +278,8 @@ compress_html:
 
 
 collections:
+  docs:
+    output: true
   examples:
     output: true
 
