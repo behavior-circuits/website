@@ -12,8 +12,8 @@ Email: contact@jan-baumgaertner.tech <br>
 
 
 ## Holger Dieterich
-Robotics Researcher @ Heidelberg University
-holger.dieterich@protonmail.com
+Robotics Researcher @ Heidelberg University <br>
+Email: holger.dieterich@protonmail.com
 
 ## Max Goebels
 Student at Heidelberg University. I like robots! <br>
