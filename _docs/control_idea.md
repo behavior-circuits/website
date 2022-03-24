@@ -33,12 +33,12 @@ Moreover the output of the circuit should also be able to handle positive and ne
 
 
 This requires a new definition of the AND and OR gate defined on [-1,1], which we call **Analogical Gates**.
-The mathematical derivation of these analogical gates can be found [here](derivation.md).
+The mathematical derivation of these analogical gates can be found [here](https://behavior-circuits.github.io/website/docs/derivation/).
 More important for the purposes of understanding how to use these gates is how to interpret negative and positive values.
 In the case of binary gates 1 can be thought of as true and 0 can be thought of as false.
 The new interpretation of positive and negative values is already described in the previous paragraph.
 If a command of 1 can be though of as driving to the right, a command of -1 can be though of as driving to the left.
 Thus one can intepret -1 as the opposite action of 1 while 0 means no action at all.
 
-It can be a bit difficult at first to work with these analogical gates, which is why the section about [circuit design](control_design.md) will offer guidelines and examples of more complex circuit capable of avoiding obstacles, navigating mazes and more.
+It can be a bit difficult at first to work with these analogical gates, which is why the section about [circuit design](https://behavior-circuits.github.io/website/docs/control_design/) will offer guidelines and examples of more complex circuit capable of avoiding obstacles, navigating mazes and more.
 
