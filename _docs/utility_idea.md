@@ -83,7 +83,7 @@ While the initial example used basic AND and OR gates, there are in fact more co
 There are gates in which the utility of one behavior supercedes the utility of another, there are circuits where the relative contribution of two functions is governed by a third input.
 
 With all these gates the question remains: how to effectively design a ciruit which combines different utility functions.
-All this is governed in the section [Design for Utility Combination](utility_design.md)
+All this is governed in the section [Design for Utility Combination](https://behavior-circuits.github.io/website/docs/utility_design/)
 
 
 
