@@ -19,7 +19,7 @@ There are two main applications for these circuits:
 
 When designing utility based agents for video games or robotic, the design of utility functions with multiple variables is often more an art form than a science.
 Behavior circuits can be used to structure this process by describing these functions as a number of single variable utility functions combined using a behavior circuit.
-More information on this application can be found [here](utility_idea.md).
+More information on this application can be found [here](https://behavior-circuits.github.io/website/docs/utility_idea/).
 
 ## Directly combining steering Commands
 
@@ -28,4 +28,4 @@ The Question for the designer of the robotics system is then, how to choose when
 
 Behavior circuits can be used to directly connect these control commands based on a rule based circuit.
 These circuits can use the current commands of the behaviors themself to decide on the final steering command.
-More information on this application can be found [here](control_idea.md).
+More information on this application can be found [here](https://behavior-circuits.github.io/website/docs/control_idea/).
